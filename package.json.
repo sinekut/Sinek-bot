@@ -1,0 +1,15 @@
+
+{
+  "name": "sinek-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot quan ly don hang Sinek Store",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "@supabase/supabase-js": "^2.57.4",
+    "dotenv": "^16.4.7"
+  }
+}
